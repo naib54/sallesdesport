@@ -1,0 +1,95 @@
+{
+
+"Club":   [
+   {
+      "nom_club": "Aikido nancy sport de combat",
+      "Sport_pratique": "Aikido",
+      "Adresse": "Complexe sportif äul Friederich, 4 avenue du rhin",
+      "Ville": "Nancy",
+      "Code_postal": "54000",
+      "Telephone": "0681211917",
+      "Latitude" :"48°41 34.8",
+      "Longitude": "6°09.16.8"
+   },
+   {
+      "nom_club": "Punch",
+      "Sport_pratique": "Boxe et art martiaux",
+      "Adresse": "42 rue de phalsbourg",
+      "Ville": "Nancy",
+      "Code_postal": "54000",
+      "Telephone": "0383274490",
+      "Latitude":"48.682758493433155",
+      "Longitude": "6.18087636273263" 
+   },
+   {
+      "nom_club": "COS Viller-Savate Boxe Française canne et baton fédéral",
+      "Sport_pratique": "Box Française, canne et baton fédéral",
+      "Adresse": "rue de la carrière",
+      "Ville": "Viller les nancy",
+      "Code_postal": "54600",
+      "Telephone": "0383443956",
+      "Latitude":"48.667513666874726", 
+      "Longitude": "6.140595515340167"
+   },
+   {
+      "nom_club": "Judo club Nancy",
+      "Sport_pratique": "Judo",
+      "Adresse": "51 rue emile bertin",
+      "Ville": "Nancy",
+      "Code_postal": "54000",
+      "Telephone": "0383357592",
+      "Latitude": "48.67956447884323",
+      "Longitude":"6.162433747476833" 
+   },
+   {
+      "nom_club": "Nippon Kempo Shobukai",
+      "Sport_pratique": "Nippon Kempo",
+      "Adresse": "45 rue Emile bertin",
+      "Ville": "Nancy",
+      "Code_postal": "54000",
+      "Telephone": "0695554329",
+      "Latitude": "48.6805899796923", 
+      "Longitude":"6.163933398844335" 
+   },
+   {
+      "nom_club": "Hung Gar",
+      "Sport_pratique": "Kung-Fu",
+      "Adresse": "45 rue Emile bertin",
+      "Ville": "Nancy",
+      "Code_postal": "54000",
+      "Telephone": "0652053435",
+      "Latitude": "48.68004394188383", 
+      "Longitude":"6.163141446377621"
+   },
+   {
+      "nom_club": "Bujinkan Dojo Laxou",
+      "Sport_pratique": "Ninjutsu",
+      "Adresse": "4 rue de l'abbé Gridel",
+      "Ville": "Nancy",
+      "Code_postal": "54000",
+      "Telephone":"0671428471",
+      "Latitude":"48.67438460071361",
+      "Longitude":"6.154453582926335" 
+   },
+   {
+      "nom_club": "Karaté Club Nancéien",
+      "Sport_pratique": "Karaté",
+      "Adresse": "45 rue Emile Bertin",
+      "Ville": "Nancy",
+      "Code_postal": "54000",
+      "Telephone": "0651375324",
+      "Latitude":"48.68045472658297",
+      "Longitude":"6.165984550512505" 
+   },
+   {
+      "nom_club": "AFR Silat Défense 54",
+      "Sport_pratique": "Self Défense",
+      "Adresse": "11 rue solvay",
+      "Ville": "Maxeville",
+      "Code_postal": "54320",
+      "Telephone": "0665446917",
+      "Latitude":"48.70064316616441",
+      "Longitude":"6.128575558471504"
+   }
+]
+}

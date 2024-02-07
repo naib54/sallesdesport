@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/css/styles.css" />
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+
+    <title>Salles de sport</title>
+  </head>
+
+  
+
+  <body>
+    <header>
+    <!-- En-tête de la page -->
+
+    <section id="sectionHeader">
+      <!-- Section de l'en-tête contenant le logo et le titre -->
+      <img id="logo" src="/img/OIG2.jfif" alt="" />
+      <h1>FIGHTING CLUBS</h1>
+    </section>
+  </header>
+    
+    <main>
+      <section class="mapp">
+         <!-- Section principale contenant la carte et le formulaire -->
+        <article class="infos">
+           <!-- Article pour les informations -->
+ <p id="info">Infos : BONJOUR CAVA OU QUOI</p>
+        </article>
+        <article id="form"><!-- Article pour le formulaire de recherche -->
+          <input
+            type="text"
+            id="formul"
+            placeholder="Saisissez un nom de club ou une discipline"
+          />
+          <button id="bouton" onclick="search()">Localiser</button>
+        </article>
+       
+        
+        
+        <div id="map">MAP</div><!-- Conteneur de la carte -->
+        <script
+          src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBfNGjaROW7AsK2SVNKwLPhmJ9LsjdY9K4&callback=initMap&v=weekly"
+          defer
+        ></script>
+      <!-- Script pour intégrer la carte Google Maps -->
+      </section>
+    </main>
+
+    <footer id="footerr">
+      <!-- Pied de page -->
+      <p>COPYRIGHTS Nicolas et Naïb 2023 - AFPA</p>
+    </footer>
+    <script src="/JavaScript/fetch.js"></script> <!-- Script JavaScript pour les opérations de récupération de données -->
+  </body>
+</html>

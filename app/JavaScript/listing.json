@@ -1,0 +1,136 @@
+{
+
+"club":   [
+   {
+      "nom_club": "Aikido Nancy sport de combat",
+      "discipline": "Art martiaux Aikido",
+      "Adresse": "Complexe sportif Paul Friederich, 4 avenue du rhin",
+      "Ville": "Nancy",
+      "Code_postal": "54000",
+      "Telephone": "0681211917",
+      "Latitude" :48.69926550779381,
+      "Longitude": 6.139607230680332,
+      "Ouverture": "Mercredi : 18:30 | Vendredi : 19:00",
+      "Fermeture": "Mercredi : 21:00 | Vendredi : 21:00",
+      "Site":"Facebook : https://m.facebook.com/aikidonancy/"
+   },
+   {
+      "nom_club": "Punch",
+      "discipline": "Boxe et art martiaux",
+      "Adresse": "42 rue de phalsbourg",
+      "Ville": "Nancy",
+      "Code_postal": "54000",
+      "Telephone": "0383274490",
+      "Latitude":48.682758493433155,
+      "Longitude": 6.18087636273263,
+      "Ouverture": "Lundi / Samedi : 10:00",
+      "Fermeture": "Lundi / Vendredi : 21:00 | Samedi : 18:00",
+      "Site":"Site web : https://punchnancy.fr/"
+   },
+   {
+      "nom_club": "COS Viller-Savate Boxe Française canne et baton fédéral",
+      "discipline": "Boxe",
+      "Adresse": "rue de la carrière",
+      "Ville": "Viller les nancy",
+      "Code_postal": "54600",
+      "Telephone": "0383443956",
+      "Latitude":48.667513666874726, 
+      "Longitude": 6.140595515340167,
+      "Ouverture": "Lundi / Mercredi / Vendredi : 18:30",
+      "Fermeture": "Mardi / Jeudi / Samedi / Dimanche",
+      "Site":"Site web : http://www.savate-canne.com/"
+   },
+   {
+      "nom_club": "Judo club Nancy",
+      "discipline": "Judo",
+      "Adresse": "51 rue emile bertin",
+      "Ville": "Nancy",
+      "Code_postal": "54000",
+      "Telephone": "0383357592",
+      "Latitude": 48.67956447884323,
+      "Longitude":6.162433747476833,
+      "Ouverture": "Mardi : 19:00",
+      "Fermeture": "Mardi : 20:30",
+      "Site": "Site web : http://jcnancy.free.fr/index.php?file=Page&name=club"
+   },
+   {
+      "nom_club": "Nippon Kempo Shobukai",
+      "discipline": "Art martiaux Nippon Kempo",
+      "Adresse": "45 rue Emile bertin",
+      "Ville": "Nancy",
+      "Code_postal": "54000",
+      "Telephone": "0695554329",
+      "Latitude": 48.6805899796923, 
+      "Longitude":6.163933398844335,
+      "Ouverture": "Mardi : 20:30",
+      "Fermeture": "Mardi: 22:00",
+      "Site": "Site web : https://nipponkemponancy.jimdofree.com/"
+   },
+   {
+      "nom_club": "Hung Gar",
+      "discipline": "Art martiaux Kung Fu",
+      "Adresse": "45 rue Emile bertin",
+      "Ville": "Nancy",
+      "Code_postal": "54000",
+      "Telephone": "0652053435",
+      "Latitude": 48.68004394188383, 
+      "Longitude":6.163141446377621,
+      "Ouverture": "Mardi : 19:00 | Jeudi : 20:30",
+      "Fermeture": "Mardi : 22:00 | Jeudi : 22:00",
+      "Site": "Site web : http://www.hunggar-nancy.fr/"
+   },
+   {
+      "nom_club": "Bujinkan Dojo Laxou",
+      "discipline": "Art martiaux Ninjutsu",
+      "Adresse": "4 rue de l'abbé Gridel",
+      "Ville": "Nancy",
+      "Code_postal": "54000",
+      "Telephone":"0671428471",
+      "Latitude":48.67438460071361,
+      "Longitude":6.154453582926335,
+      "Ouverture": "Lundi / Mardi : 22:30",
+      "Fermeture": "Lundi / Mardi : 22:30",
+      "Site" :"Site web : http://www.bujinkanlaxou.fr/"
+   },
+   {
+      "nom_club": "Karaté Club Nancéien",
+      "discipline": "Art martiaux Karaté",
+      "Adresse": "45 rue Emile Bertin",
+      "Ville": "Nancy",
+      "Code_postal": "54000",
+      "Telephone": "0651375324",
+      "Latitude":48.68045472658297,
+      "Longitude":6.165984550512505,
+      "Ouverture": "Lundi / Jeudi : 19:00",
+      "Fermeture": "Lundi / Jeudi : 20:30",
+      "Site":"Site web : https://www.karateclubnanceien.com/"
+   },
+   {
+      "nom_club": "AFR Silat Défense 54",
+      "discipline": "Self Défense",
+      "Adresse": "11 rue solvay",
+      "Ville": "Maxeville",
+      "Code_postal": "54320",
+      "Telephone": "0665446917",
+      "Latitude":48.70064316616441,
+      "Longitude":6.128575558471504,
+      "Ouverture": "Lundi / Vendredi : 18:15 | Samedi : 10:00",
+      "Fermeture": "Lundi / Vendredi : 21h30 | Samedi : 12:00",
+      "Site":"Site web : https://www.academiefranckropers.com/"
+
+   },
+   {
+      "nom_club": "Cercle Nancéien de Judo (Aikido, Karaté, Judo, Ju-jitsu)",
+      "discipline": "Aikido, Karaté, Judo, Ju-jitsu, Arts martiaux",
+      "Adresse": "122 Bd Lobau, 54000 Nancy, France",
+      "Ville": "Nancy",
+      "Code_postal": "54000",
+      "Telephone": "03 83 37 30 95",
+      "Latitude":48.68217408696045, 
+      "Longitude":6.197319411043802,
+      "Ouverture": "Lundi / Vendredi : 18:15 | Samedi : 10:00",
+      "Fermeture": "Lundi / Vendredi : 21h30 | Samedi : 12:00",
+      "Site":"Site web : https://www.cnjudo.net/"
+   }
+]
+}

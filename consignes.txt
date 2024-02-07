@@ -1,0 +1,91 @@
+Projet 1 :
+
+IMPACT SUR LA CIRCULATION DES TRAVAUX AU GRAND NANCY
+
+Projet minimal
+
+Page web avec une carte
+Un indicateur visuel (danger) montrera l'endroit de la zone de travaux
+Je clique sur cet indicateur j'affiche le détail des travaux
+(date de début - date de fin, description) modal
+Projet évolué
+Selon la date du jour, j'affiche les zones de travaux
+Je suis en voiture, je souhaite des suggestions d'itinéraire si jamais je me rends dans une zone où il y a des travaux
+(Demander la géolocalisation, chercher les itinéraires)
+
+-------
+
+Projet 2 :
+
+PARKINGS PAYANT DE Strasbourg
+
+Page web avec les informations des parkings
+Listes des parkings
+Je veux savoirs si celui-ci est ouvert aujourd'hui, s'il est fermé ou non
+Je veux savoir s'il y a des places disponibles
+Je suis en voiture, j'arrive à Strasbourg, la page web doit m'indiquier quel est le parking le plus proche de moi et où il y a des places disponibles
+
+-------
+
+Projet 3 :
+
+CINEMA
+
+A partir de la maquette et themoviedb
+Faire l'affichage des informations des fimms (affiche, acteurs, date de sortie, votes)
+Recherche par genre et par titre
+Possibilité de lecture vidéo de la bande-annonce
+
+Projet 1 :
+
+IMPACT SUR LA CIRCULATION DES TRAVAUX AU GRAND NANCY
+
+Projet minimal
+
+Page web avec une carte
+Un indicateur visuel (danger) montrera l'endroit de la zone de travaux
+Je clique sur cet indicateur j'affiche le détail des travaux
+(date de début - date de fin, description) modal
+Projet évolué
+Selon la date du jour, j'affiche les zones de travaux
+Je suis en voiture, je souhaite des suggestions d'itinéraire si jamais je me rends dans une zone où il y a des travaux
+(Demander la géolocalisation, chercher les itinéraires)
+
+-------
+
+Projet 2 :
+
+PARKINGS PAYANT DE Strasbourg
+
+Page web avec les informations des parkings
+Listes des parkings
+Je veux savoirs si celui-ci est ouvert aujourd'hui, s'il est fermé ou non
+Je veux savoir s'il y a des places disponibles
+Je suis en voiture, j'arrive à Strasbourg, la page web doit m'indiquier quel est le parking le plus proche de moi et où il y a des places disponibles
+
+-------
+
+Projet 3 :
+
+CINEMA
+
+A partir de la maquette et themoviedb
+Faire l'affichage des informations des fimms (affiche, acteurs, date de sortie, votes)
+Recherche par genre et par titre
+Possibilité de lecture vidéo de la bande-annonce
+
+-------
+
+Projet 4 :
+
+Médiathèque
+Page web présentant une liste d'ouvrages avec les informations de chaque ouvrage
+Recherche par auteur et par catégorie et par genre
+(Recherche multi-critères)
+
+-------
+
+Projet 5 :
+Géographie
+Quizz sur les capitales
+Afficher une carte avec toutes les villes et quand on clique sur une ville on a les informations de la ville
